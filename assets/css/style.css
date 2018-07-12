@@ -276,6 +276,13 @@ textarea{
     z-index: 200;
 }
 
+.ghabs {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    z-index: 2000;
+}
+
 .card a:hover {
     color: white!important;
     text-decoration-line: none!important;
